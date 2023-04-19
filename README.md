@@ -1,9 +1,9 @@
 # Parameter Optimization of SVM
 Assignment for UCS654
 
-## About SVM and Parameter Optimization
+## What is SVM 
 
-![SVM](https://gmd.copernicus.org/articles/12/613/2019/#&gid=1&pid=1)
+![SVM]()
 
 Support Vector Machine or SVM is one of the most popular Supervised Learning algorithms, which is used for Classification as well as Regression problems. However, primarily, it is used for Classification problems in Machine Learning.
 
