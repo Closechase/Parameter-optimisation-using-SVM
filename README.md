@@ -1,26 +1,28 @@
 # Parameter Optimization of SVM
-Assignment for UCS654
 
-## What is SVM 
+
+## What is SVM ?
 
 ![SVM](SVM.png)
 
 Support Vector Machine or SVM is one of the most popular Supervised Learning algorithms, which is used for Classification as well as Regression problems. However, primarily, it is used for Classification problems in Machine Learning.
 
-Some of the most important parameters of SVM such as kernel, C, and gamma can be changed in order to achieve a higher accuracy. This is called as Hyperparameter Tuning. 
+Parameters of SVM are:
+| Kernel |
+| Gamma  |
+|  C     |
 
 Function used for optimization : Grid Search
 
-## Dataset
-
-The dataset for the project has been downloaded from the UCI Machine Learning Repository.
+## Source
 [https://archive.ics.uci.edu/ml/datasets/Room+Occupancy+Estimation](https://archive.ics.uci.edu/ml/datasets/Room+Occupancy+Estimation)
 
 This dataset is used for estimating the precise number of occupants in a room using multiple non-intrusive environmental sensors like temperature, light, sound, CO2 and PIR. It is a multi-variate classification Dataset.
 
-Number of Instances: 10129
-
-Number of Attributes: 16
+# Dataset Info
+|Dataset Type           | Multivariate |
+|Number of Instances:   | 10129        |
+|Number of Attributes:  | 16           |
 
 ## Final Result Table
 
