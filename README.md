@@ -3,6 +3,8 @@ Assignment for UCS654
 
 ## About SVM and Parameter Optimization
 
+![SVM](https://gmd.copernicus.org/articles/12/613/2019/#&gid=1&pid=1)
+
 Support Vector Machine or SVM is one of the most popular Supervised Learning algorithms, which is used for Classification as well as Regression problems. However, primarily, it is used for Classification problems in Machine Learning.
 
 Some of the most important parameters of SVM such as kernel, C, and gamma can be changed in order to achieve a higher accuracy. This is called as Hyperparameter Tuning. 
@@ -46,8 +48,6 @@ From the above graph, we can conclude that the model is well trained and paramet
 The graph is made for the sample which has best accuracy. Sample 9 has the best accuracy of 0.97 having kernel = Poly, Nu = 1.27 and Epsilon = 6.87.
 
 ## Written By
-Name : Khushi Prasad
-  
-Roll No. : 102183044
-
-Sub-Group: 3CO20
+Name : Aayush Asrey
+Roll No. : 102003745
+Sub-Group: 3CO21
